@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+my_env
+_oldkod
+assets
+mdls
+setup
+.env
+.git/
+*.code-workspace
+.venv
+deprecated/
